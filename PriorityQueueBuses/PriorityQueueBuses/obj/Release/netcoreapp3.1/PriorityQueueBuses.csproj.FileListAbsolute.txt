@@ -1,0 +1,10 @@
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/bin/Release/netcoreapp3.1/PriorityQueueBuses
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/bin/Release/netcoreapp3.1/PriorityQueueBuses.deps.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/bin/Release/netcoreapp3.1/PriorityQueueBuses.runtimeconfig.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/bin/Release/netcoreapp3.1/PriorityQueueBuses.runtimeconfig.dev.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/bin/Release/netcoreapp3.1/PriorityQueueBuses.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/bin/Release/netcoreapp3.1/PriorityQueueBuses.pdb
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/obj/Release/netcoreapp3.1/PriorityQueueBuses.AssemblyInfoInputs.cache
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/obj/Release/netcoreapp3.1/PriorityQueueBuses.AssemblyInfo.cs
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/obj/Release/netcoreapp3.1/PriorityQueueBuses.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/PriorityQueueBuses/PriorityQueueBuses/obj/Release/netcoreapp3.1/PriorityQueueBuses.pdb
